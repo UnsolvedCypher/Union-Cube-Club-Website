@@ -2,7 +2,6 @@
 title: Union Cube Club
 layout: page
 permalink: /home/
-redirect_from: "/"
 ---
 
 
