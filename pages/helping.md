@@ -13,9 +13,9 @@ If you haven't competed in the current event yet, make sure to let a staff membe
 Judging
 -------
 
-Hint: [Here's a cheat sheet for judging](Cheat%20Sheet.pdf)
+Hint: [Here's a cheat sheet for judging](./Cheat%20Sheet.pdf)
 
-Judging is not very difficult - you don't even have to be a cuber to do it well. While you don't have to know every single regulation, it is easier the more you know. However, since we know you can't memorize everything, [we've prepared some cheat sheets with a list of penalties so you can refer to it when needed](Cheat%20Sheet.pdf). If you're still not sure, just ask an experienced judge or the delegate - it's always better to make sure!
+Judging is not very difficult - you don't even have to be a cuber to do it well. While you don't have to know every single regulation, it is easier the more you know. However, since we know you can't memorize everything, [we've prepared some cheat sheets with a list of penalties so you can refer to it when needed](./Cheat%20Sheet.pdf). If you're still not sure, just ask an experienced judge or the delegate - it's always better to make sure!
 
 ### Getting a Cube
 
