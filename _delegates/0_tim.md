@@ -1,6 +1,6 @@
 ---
 name: Tim Reynolds
-id: 2005REYN01
+wca: 2005REYN01
 location: Cambridge, MA
 color: 3f2af0
 

@@ -1,6 +1,6 @@
 ---
 name: Sam Schultz
-id: 2011SCHU06
+wca: 2011SCHU06
 location: New York City, NY
 color: 73ffbb
 useblack: true

@@ -1,6 +1,6 @@
 ---
 name: Keaton Ellis
-id: 2012ELLI01
+wca: 2012ELLI01
 location: Cambridge, MA
 color: 8955e9
 

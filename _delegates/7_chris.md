@@ -1,6 +1,6 @@
 ---
 name: Chris Tran
-id: 2008TRAN02
+wca: 2008TRAN02
 location: no idea
 color: fff457
 useblack: true

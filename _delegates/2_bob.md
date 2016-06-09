@@ -1,6 +1,6 @@
 ---
 name: Bob Burton
-id: 2003BURT01
+wca: 2003BURT01
 location: Belleville, NJ
 color: 7D0404
 

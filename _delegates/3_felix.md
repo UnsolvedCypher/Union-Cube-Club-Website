@@ -1,6 +1,6 @@
 ---
 name: Felix Lee
-id: 2008LEEF01
+wca: 2008LEEF01
 location: Clarksville, MD
 color: ff6600
 useblack: true

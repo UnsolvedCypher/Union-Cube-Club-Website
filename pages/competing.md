@@ -20,7 +20,7 @@ Before the Competition
 
 Be sure to **read the competition website.** It will have important information about food, cutoffs, and anything else. If you need more information, use the contact page.
 
-*Be familiar with the regulations.* You don't have to know them by heart, but you should know the basic rules. This page should cover most of them, but if you have a question, ask the delegate.
+**Be familiar with the regulations.** You don't have to know them by heart, but you should know the basic rules. This page should cover most of them, but if you have a question, ask the delegate.
 
 The Day Of
 ----------

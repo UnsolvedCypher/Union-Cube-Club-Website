@@ -1,6 +1,6 @@
 ---
 name: Arthur Adams
-id: 2006ADAM01
+wca: 2006ADAM01
 location: New Haven, CT
 color: 09BA18
 
