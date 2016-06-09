@@ -19,3 +19,6 @@ markdown: kramdown
 
 collections:
   - delegates
+
+gems:
+  - jekyll-redirect-from
