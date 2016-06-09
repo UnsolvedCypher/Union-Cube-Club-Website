@@ -1,7 +1,7 @@
 ---
 title: Scrambling
 layout: page
-permalink: /scrambling
+permalink: /scrambling/
 ---
 
 Scrambling

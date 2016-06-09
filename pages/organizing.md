@@ -1,7 +1,7 @@
 ---
 title: Resources for Organizers
 layout: page
-permalink: /organizing
+permalink: /organizing/
 ---
 
 Organizing

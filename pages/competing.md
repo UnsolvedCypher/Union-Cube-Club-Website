@@ -1,6 +1,6 @@
 ---
 title: Competing
-permalink: /competing
+permalink: /competing/
 layout: page
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Yearly Overview
-permalink: /overview
+permalink: /overview/
 layout: page
 ---
 

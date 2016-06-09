@@ -1,7 +1,7 @@
 ---
 title: Delegate Biographies
 layout: page
-permalink: /biographies
+permalink: /biographies/
 ---
 
 Delegate Biographies

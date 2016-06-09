@@ -1,7 +1,7 @@
 ---
 title: Judging and Running
 layout: page
-permalink: /helping-out
+permalink: /helping-out/
 ---
 Judging and Running
 ===================

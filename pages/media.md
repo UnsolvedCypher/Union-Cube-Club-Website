@@ -1,7 +1,7 @@
 ---
 title: Media
 layout: page
-permalink: media
+permalink: /media/
 ---
 
 Photos and Videos
