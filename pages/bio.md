@@ -24,7 +24,7 @@ Delegate Biographies
             </p>
     </div>
     <div class="col-md-2" style="text-align:center;">
-        <img src="img/{{ delegate.name | remove: ' ' }}.jpg" height="128" width="128" alt="{{ delegate.name }}">
+        <img src="../img/{{ delegate.name | remove: ' ' }}.jpg" height="128" width="128" alt="{{ delegate.name }}">
         <h3>
             <a href="https://www.worldcubeassociation.org/results/p.php?i={{ delegate.id }}">
                 [{{ delegate.id }}]

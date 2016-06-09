@@ -6,7 +6,7 @@ permalink: /home/
 
 
 <div align="center">
-    <img src="img/Logo-256.png" alt="Union Cube Club">
+    <img src="../img/Logo-256.png" alt="Union Cube Club">
     <br />
 </div>  
 
